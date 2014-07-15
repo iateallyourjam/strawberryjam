@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"autho",
+				"authors"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"print",
+				"print_ntimes"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "# a = 0\n# for i in range(19):\n# print '2X'+ '' + '=' + ''\n\n# for a in range(2, 10):\n# 	for b in range(1, 10):\n# 		print str(a) + \"x\" + str(b) + \"=\" + str(a*b)\n\n\n\n# a= \"\"\n# for i in range(5):\n# 	a += \"*\"\n# 	print a\n\n# for i in range(1,6):\n# 	print '*'*i\n\n\n\n\n# s1 = 0\n# s2 = 0\n# for i in range(1, 101):\n# 	s1 += i ** 2\n# 	s2 += i\n# s2 = s2 ** 2\n\n# print abs(s2 - s1)\n\n\n\n# def gcd(m, n):\n# 	while n !=0:\n# 		t=m%n\n# 		(m, n) = (n, t)\n# 	return abs(m)\n\n# def lcm(m, n):\n# 	g = gcd(m, n)\n# 	return n * m / g\n\n# numbers = range(1, 21)\n# for i in range(1, 20):\n# 	numbers[i] = lcm(numbers[i-1], numbers[i])\n# print numbers[19]\n\n# a = 0\n# i = 1\n# while 3 * i < 1000:\n# 	a = a + i*3\n# 	i = i + 1\n\n# b = 0\n# i = 1\n# while 5 * i < 1000:\n# 	b = b + i*5\n# 	i = i + 1\n\n# c = 0\n# i = 1\n# while 15 * i < 1000:\n# 	c = c + i*15\n# 	i = i + 1\n\n# print a + b - c\n\n# s = 0\n# for i in range(1, 1000):\n# 	if i % 3 == 0 or i % 5 == 0:\n# 		s += i\n# print s\n\n# l = [1, 2]\n# while True:\n# 	l.append(l[len(l)-1]+l[len(l)-2])\n# 	if l[len(l)-1] > 4000000:\n# 		break\n# s = 0\n# for i in l:\n# 	if i % 2 ==0:\n# 		s = s + i\n\n# print s\n\n\n# fib_dict = {1: 1, 2: 2}\n# def fib(n):\n# 	if n in fib_dict:\n# 		return fib_dict[n]\n# 	else:\n# 		fib_dict[n] = fib(n-2) + fib(n-1)\n# 	    return fib_dict[n]\n\n\n\n\n",
+			"file": "static/test1.py",
+			"file_size": 1359,
+			"file_write_time": 130498802676783674,
+			"settings":
+			{
+				"buffer_size": 1262,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\nPython 2.7.7 (default, Jun  1 2014, 14:17:13) [MSC v.1500 32 bit (Intel)] on win32\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>> >>> hellp\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nNameError: name 'hellp' is not defined\n>>> hello\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nNameError: name 'hello' is not defined\n>>> print 'hello'\nhello\n>>> print 'Hello World'\nHello World\n>>> ",
+			"settings":
+			{
+				"buffer_size": 467,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sy html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/gde0918/Desktop/pinksugarelephant/test.html",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/static/test.html",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/static/test1.py",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/static/test.js",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/static/test.css",
+		"/C/Users/gde0918/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/static/whole.html",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/static/css/whole.css",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/static/js/whole.js",
+		"/C/Users/gde0918/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/pinksugarelephant.sublime-project",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/pinksugarelephant.sublime-workspace",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/app.yaml",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/main.py",
+		"/C/Users/gde0918/Desktop/pinksugarelephant/gde0918/app.yaml"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"images"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.py",
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "static/test1.py",
+					"settings":
+					{
+						"buffer_size": 1262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1262,
+								1262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1387.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								467
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "4c78da880ead417e85167342f4f73996",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-i",
+									"-u"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": true,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.116054158608,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+#webfont{
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
+#two, #three, #four {
+  display: none;
+}
+
+.fadecycle div{
+   position: absolute;
+}
+
+#two2, #three3, #four4 {
+  display: none;	
+}
